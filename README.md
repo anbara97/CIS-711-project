@@ -8,4 +8,4 @@
 
 #### We also worked on about how to plotting the .mat files as a 3D plots
 
-https://github.com/anbara97/CIS-711-project/blob/main/reading-data/Data/Ch1/shapes/shape.png
+![shape](/reading-data/Data/Ch1/shapes/shape.png)
